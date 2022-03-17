@@ -1,2 +1,2 @@
 # Grid
-Learning basics of grid in CSS
+Learning basics of Grid in CSS
